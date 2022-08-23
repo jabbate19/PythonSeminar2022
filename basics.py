@@ -1,8 +1,4 @@
 # Say words!
-from os import sep
-from posixpath import split
-
-
 print("Hello World!")
 
 # # Do Math!
